@@ -6,7 +6,8 @@ Dans ce workshop vous allez construire un site web en utilisant CMS WordPress, l
 
 ## Contexte du projet :
 
-Ce projet et sera fait en binôme en utilisant Wordpress.vous devez le créer from scratch, vous devez livrer toutes les pages requises. Toutes les pages du site doivent être responsive, et votre site doit avoir une identité visuelle cohérente dans son ensemble, y compris le logo, les couleurs du thème, les polices et les types de médias.
+Ce projet sera fait individuel en utilisant le CMS Wordpress.
+Vous devez le créer from scratch, vous devez livrer toutes les pages requises. Toutes les pages du site doivent être responsive, et votre site doit avoir une identité visuelle cohérente dans son ensemble, y compris le logo, les couleurs du thème, les polices et les types de médias.
 
 - Configurez l'environnement de développement
 
@@ -38,6 +39,7 @@ Ce projet et sera fait en binôme en utilisant Wordpress.vous devez le créer fr
 ## Critères de performance
 - site web doit être entièrement fonctionnelle
 - Respecter les règles orthographiques et grammaticales lors de la rédaction de documents
+
 ## Livrables
 
 - Un lien vers la version de production
